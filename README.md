@@ -2,6 +2,8 @@
 
 Collection of cool svelte things I store so I don't forgor 💀 them.
 
+(yes its supposed to look this bad)
+
 ## USAGE
 
 ```bash
